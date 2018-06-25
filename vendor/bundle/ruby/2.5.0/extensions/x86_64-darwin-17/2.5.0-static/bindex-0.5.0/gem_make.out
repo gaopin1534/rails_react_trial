@@ -1,0 +1,15 @@
+current directory: /Users/01014501/src/github.com/gaopin1534/rails_react_trial/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+/Users/01014501/.anyenv/envs/rbenv/versions/2.5.1/bin/ruby -r ./siteconf20180625-80819-15s67iy.rb extconf.rb
+creating Makefile
+
+current directory: /Users/01014501/src/github.com/gaopin1534/rails_react_trial/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/01014501/src/github.com/gaopin1534/rails_react_trial/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/01014501/src/github.com/gaopin1534/rails_react_trial/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20180625-80819-1kcaibu/bindex
